@@ -1,1 +1,1 @@
-print("tfg")
+print("good")
